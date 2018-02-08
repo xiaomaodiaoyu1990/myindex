@@ -1,0 +1,12 @@
+.head {
+    height: 30px;
+    width: 100%;
+    line-height: 30px;
+    text-align: center;
+}
+.main-con {
+    background: url('../imges/shanshui01.gif') no-repeat;
+}
+.main-con .shi-con {
+    color: #f0f;
+}
